@@ -1,0 +1,61 @@
+{
+  "main": "Main Page",
+  "menuItems": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "Storage Procedure",
+      "url": "/procedure"
+    },
+    {
+      "title": "About us",
+      "url": "/about-us"
+    },
+    {
+      "title": "Resources",
+      "url": "/sources"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact-us"
+    }
+  ],
+  "slogon": "The largest grain importer and",
+  "slogon2": "grain storage in northern Iran",
+  "about": "About Us",
+  "aboutText": "Agro Tamin Company was established and commenced its activities in 1392. The company has been seriously involved in grain trading since 1394 and was known as the top grain importer from northern borders for nearly 43% of all imported grain.",
+  "moreBtn": "More",
+  "imports": "Imports",
+  "importText": "Commercial and economic activity that is prevalent among other societies in order to meet the needs of society.",
+  "discharge": "Discharge",
+  "dischargeText": "One of the most important executive steps in the industry is a set of executive operations in order to place and leave a cargo.",
+  "storage": "Storage",
+  "storageText": "Keeping the goods with the established principles and system, while maintaining the main properties of the goods and preventing its change.",
+  "exports": "Exports",
+  "exportText": "It is the transfer of goods or services from the country of origin to the destination country and recipient.",
+  "storageproc": "Storage",
+  "grainShip": "Grain ship unloader",
+  "oilTransmission": "Oil transmission line",
+  "oilTank": "Edible oil tanks",
+  "silo": "Grain silos",
+  "topFooterBtn": "Contact",
+  "contact": "Contact Us",
+  "name": "Name",
+  "emai": "Email",
+  "subject": "Subject",
+  "text": "Write a Message",
+  "send": "Send",
+  "topFooter": "Contact us for more information",
+  "aboutFirstRow": "Agro Tamin Company was established and commenced its activities in 1392. The company has been seriously involved in grain trading since 1394 and was known as the top grain importer from northern borders for nearly 43% of all imported grain. In 1394, with the manager’s decision, construction of BOT projects in northern ports was high on the agenda and began constructing the mechanized grain silos (50000 T) and edible oil tanks (7500 T) projects. After so many researches and meetings with the top foreign manufacturers, one of the best companies selected to supply required equipment from. The grain silos project entered the operation sector with great endeavor and investment of 1100 billion Rials.",
+  "aboutSecondRow": "Pneumatic ship-unloader, with total capacity of 300 TPH, was purchased from the best machine manufacturing brand in the world, NEURO Company in Germany and it has already discharged more than 50000 T. Agro Tamin Company has constructed the longest edible oil pipeline for 1400 meters, which has discharged more than 60000 crude edible oil for the investors in the private sector so far. This company will be able to enhance the crude oil requirement in northern parts by constructing 7500 T oil tanks as under constructing and 1000 T oil tanks as the development plans. This project, with the investment of 240 billion Rials, and the oil pipeline with the investment of 45 billion Rials were constructed and succeeded to load and unload the grain for silos for the first time, in 1401. Agro Tamin Company succeeded in achieving all its targets and managing plans in a wide range through implementing the government goals with experienced and professional personnel.",
+  "footAddress": "Bandar Anzali, Navy, Ataba Blvd., Shahid Mostafa Khomeini St., Agro Tamin Building, Port Area, Silos No. 19",
+  "footText": "With the help of expert personnel, Agro Tamin succeeded in all plans to achieve macro-level management skills.",
+  "links": "Related Links",
+  "service": "our services",
+  "social": "Social Media",
+  "sources-1": "Silos and Ship Unloader Construction Process",
+  "sources-2": "Tanks Construction and Pipe line Operation",
+  "resource": "Resource"
+}

@@ -1,0 +1,209 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "دستگاه مکنده غلات",
+      "des": "text",
+      "image": "/assets/newImages/ShiploaderCrane.png",
+      "procedures": [
+        {
+          "text": "دارای دو خروجی جهت تخلیه غلات",
+          "icon": "/assets/sucker/discharge.svg"
+        },
+        {
+          "text": "امکان کار اپراتور از کابین و به صورت ریموت",
+          "icon": "/assets/sucker/op.svg"
+        },
+        {
+          "text": "مکنده پنوماتیکی متحرک غلات با ظرفیت 320 تن در ساعت ساخت شرکت نایرو آلمان مجهز به ژنراتور 500 کیلو وات با موتور دویتز",
+          "icon": "/assets/sucker/pento.svg"
+        },
+        {
+          "text": "دارای تجهیزات یدکی جهت تعمیر و نگهداری در محل",
+          "icon": "/assets/sucker/spare.svg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "خط انتقال روغن",
+      "des": "text",
+      "image": "/assets/newImages/OilWell.png",
+      "procedures": [
+        {
+          "text": "دارای کمپرسور باد فشار قوی متحرک به منظور تخلیه روغن موجود در خط",
+          "icon": "/assets/transfer/compress.svg"
+        },
+        {
+          "text": "مجهز به تابلو طرح ریتال جهت کنترل موتور های روغن از محل اتاق برق و دوش بارگیری",
+          "icon": "/assets/transfer/rital.svg"
+        },
+        {
+          "text": "مجهز به دو مسیر خط لوله به قطر 8 اینچ پلی اتیلن داخل کانال سر پوشیده بتی به طول 1100 و 1400 متر در دو اسکله متفاوت",
+          "icon": "/assets/transfer/pipeline.svg"
+        },
+        {
+          "text": "خط لوله مجهز به 4 شیر خانه در مسیر جهت کنترل جریان روغن",
+          "icon": "/assets/transfer/pipe.svg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "مخازن ذخیره سازی روغن خوراکی",
+      "des": "text",
+      "image": "/assets/newImages/FarmGrainStorageBin.png",
+      "procedures": [
+        {
+          "text": "زمین محصور به ابعاد 4800 متر مربع ",
+          "icon": "/assets/storage/field.svg"
+        },
+        {
+          "text": "دارای قابلیت توسعه به میزان 6000 تن",
+          "icon": "/assets/storage/expand.svg"
+        },
+        {
+          "text": "مجهز به 2 دستگاه الکتروپمپ دنده‌ای هر کدام 45 کیلو وات",
+          "icon": "/assets/storage/elec.svg"
+        },
+        {
+          "text": "دارای پاپینگ آتشنشانی، الکتروپمپ 18کیلووات به منظور تغذیه 5 هایدرانت در محوطه و اسپرینکلر مخازن و دوش بارگیری",
+          "icon": "/assets/storage/fire.svg"
+        },
+        {
+          "text": "مجهز به ساختمان های جنبی با تجهیزات کامل به متراژ 200 متر مربع",
+          "icon": "/assets/storage/const.svg"
+        },
+        {
+          "text": "4 مخزن به ظرفیت کلی 7500 تن ",
+          "icon": "/assets/storage/lerd.svg"
+        },
+        {
+          "text": "دارای مخزن لرد به ظرفیت 70تن",
+          "icon": "/assets/storage/lerd.svg"
+        },
+        {
+          "text": "دارای قابلیت تخلیه و بارگیری از مخزن به کشتی و باعکس",
+          "icon": "/assets/storage/load.svg"
+        },
+        {
+          "text": "دارای یک مخزن سر ریز به ظرفیت 50 متر مکعب ",
+          "icon": "/assets/storage/overflow.svg"
+        },
+        {
+          "text": "دارای یک مخزن آتشنشانی به ظرفیت 50 متر مکعب ",
+          "icon": "/assets/storage/tank.svg"
+        }
+      ],
+      "info": [
+        {
+          "desc": [
+            {
+              "text": "تعداد : 3 دوش بارگیری"
+            },
+            { "text": "ظرفیت : باسکول 60 تن دیجیتال" }
+          ],
+          "image": [{ "url": "/assets/storage/oilTank3.png" }]
+        },
+        {
+          "desc": [
+            {
+              "text": "تعداد : 2 مخزن استیل"
+            },
+            { "text": "ظرفیت : 2250 تن" }
+          ],
+          "image": [{ "url": "/assets/storage/oilTank2.png" }]
+        },
+        {
+          "desc": [
+            {
+              "text": "تعداد : 4 مخزن"
+            },
+            { "text": "ظرفیت : 7500تن" }
+          ],
+          "image": [{ "url": "/assets/storage/oilTank1.png" }]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "سیلوهای غلات",
+      "des": "text",
+      "image": "/assets/newImages/celoTabs.webp",
+      "procedures": [
+        {
+          "text": "محوطه 10000 متر مربع محصور",
+          "icon": "/assets/celo/field.svg"
+        },
+        {
+          "text": "بانک خازنی اتوماتیک با بدنه ریتال",
+          "icon": "/assets/celo/rital.svg"
+        },
+        {
+          "text": "مجهز به دو باسکول  دیجیتال 60 تن با لودسل فیتسر واگن آلمان",
+          "icon": "/assets/celo/weighbridge.svg"
+        },
+        {
+          "text": "مجهز به تجهیزات آتشنشانی با پایپینگ 4 ایچ با 5 خروجی هایدرانت در محوطه",
+          "icon": "/assets/celo/fire.svg"
+        },
+        {
+          "text": "مجهز به ساختمان های جانبی اداری و کنترلی به متراژ کلی 400 متر مربع با تجهیزات سرمایش و گرمایش",
+          "icon": "/assets/celo/temp2.svg"
+        },
+        {
+          "text": "سیلو غلات استیل گالوانیزه ساخت شرکت poscpo ایتالیا با ظرفیت 50000تن",
+          "icon": "/assets/celo/control.svg"
+        },
+        {
+          "text": "مجهز به سه الواتور جهت تخلیه و بارگیری همزمان",
+          "icon": "/assets/celo/load.svg"
+        },
+        {
+          "text": "تابلو کنترل با قابلیت راه اندازی دستی و اتوماتیک مجهز به plc  زیمنس سری 1200",
+          "icon": "/assets/celo/field.svg"
+        },
+        {
+          "text": "مجهز به سیستم  غبارگیر، هوادهی از کف و سوئیپ آگر (جاروبک کف)",
+          "icon": "/assets/celo/celo.svg"
+        },
+                {
+          "text": "دارای تجهیزات اندازه گیری دما و سطح لیزری با قابلیت گزارش گیری",
+          "icon": "/assets/celo/temp.svg"
+        }
+      ],
+      "info": [
+        {
+          "desc": [
+            {
+              "text": "تعداد : 2 کندو صادراتی مجهز به تخلیه و بارگیری"
+            },
+            { "text": "ظرفیت : 90 تن" },
+            { "text": "11.25 x 4.5 :ابعاد" }
+          ],
+          "image": [{ "url": "/assets/celo/celoTab3.png" }]
+        },
+        {
+          "desc": [
+            {
+              "text": "تعداد: 9 کندو"
+            },
+            { "text": "ظرفیت : 3000 تن" },
+            { "text": "19 x 20.5 :ابعاد" }
+          ],
+          "image": [{ "url": "/assets/celo/celoTab2.png" }]
+        },
+        {
+          "desc": [
+            {
+              "text": "تعداد : 4 کندو"
+            },
+            { "text": "ظرفیت : 3000 تن" },
+            { "text": "15.5 x 20.5 :ابعاد" }
+          ],
+          "image": [{ "url": "/assets/celo/celoTab1.png" }]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Grain ship unloader",
+      "des": "text",
+      "image": "/assets/newImages/ShiploaderCrane.png",
+      "procedures": [
+        {
+          "text": "Possibility to work from the cabin and remotely as an operator.",
+          "icon": "/assets/sucker/discharge.svg"
+        },
+        {
+          "text": "The possibility of the operator working from the cabin and remotely.",
+          "icon": "/assets/sucker/op.svg"
+        },
+        {
+          "text": "Dynamic Pneumatic grain unloader with the capacity of 320 tons per hour, manufactured by Neuro, Germany, equipped with a 500kw generator with Deutz engine.",
+          "icon": "/assets/sucker/pento.svg"
+        },
+        {
+          "text": "Having spare equipment for on-site maintenance.",
+          "icon": "/assets/sucker/spare.svg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Oil transmission line",
+      "des": "text",
+      "image": "/assets/newImages/OilWellHead.webp",
+      "procedures": [
+        {
+          "text": "Having dynamic high pressure wind compressor for discharging the remained oil in the line.",
+          "icon": "/assets/transfer/compress.svg"
+        },
+        {
+          "text": "Equipped with Rittal panel for controlling the oil engines from the panel and loading area.",
+          "icon": "/assets/transfer/rital.svg"
+        },
+        {
+          "text": "Equipped with two polyethylene pipeline routes, 8 inches in diameter, in a covered concrete canal with the length of 1100 and 1400 meters in two different docks.",
+          "icon": "/assets/transfer/pipeline.svg"
+        },
+        {
+          "text": "Pipeline equipped with 4 halves alongside for controlling the oil current.",
+          "icon": "/assets/transfer/pipe.svg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Edible oil tanks",
+      "des": "text",
+      "image": "/assets/newImages/FarmGrainStorageBin.png",
+      "procedures": [
+        {
+          "text": "4800 square meters enclosed area.",
+          "icon": "/assets/storage/field.svg"
+        },
+        {
+          "text": "With the development capability of 6000 tons.",
+          "icon": "/assets/storage/expand.svg"
+        },
+        {
+          "text": "Equipped with two geared electric pumps, 45 kw each one.",
+          "icon": "/assets/storage/elec.svg"
+        },
+        {
+          "text": "Having firefighting pipes and an 18kw electro pump in order to feed 5 hydrants in the area and also the sprinkler.",
+          "icon": "/assets/storage/fire.svg"
+        },
+        {
+          "text": "Having fully-equipped side buildings in a 200 square meters area.",
+          "icon": "/assets/storage/const.svg"
+        },
+        {
+          "text": "4 tanks with a total capacity of 7500 tons",
+          "icon": "/assets/storage/lerd.svg"
+        },
+        {
+          "text": "Having a precipitation tank with the volume of 70 tons.",
+          "icon": "/assets/storage/lerd.svg"
+        },
+        {
+          "text": "The capability of loading and discharging from the tank to the ship and vice versa.",
+          "icon": "/assets/storage/load.svg"
+        },
+        {
+          "text": "Having an overflow tank with the volume of 50 cubic meters.",
+          "icon": "/assets/storage/overflow.svg"
+        },
+        {
+          "text": "Having a firefighting tank with the volume of 50 cubic meters.",
+          "icon": "/assets/storage/tank.svg"
+        }
+      ],
+      "info": [
+        {
+          "desc": [
+            {
+              "text": "Number : 3 loading areas"
+            },
+            { "text": "Capacity : 60 tons digital weighbridge" }
+          ],
+          "image": [{ "url": "/assets/storage/oilTank3.png" }]
+        },
+        {
+          "desc": [
+            {
+              "text": "Number : 2 steel tanks"
+            },
+            { "text": "Capacity : 2250 tons" }
+          ],
+          "image": [{ "url": "/assets/storage/oilTank2.png" }]
+        },
+        {
+          "desc": [
+            {
+              "text": "Number : 4 Tanks"
+            },
+            { "text": "Capacity : 7500 tons" }
+          ],
+          "image": [{ "url": "/assets/storage/oilTank1.png" }]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Grain silos",
+      "des": "text",
+      "image": "/assets/newImages/celoTabs.webp",
+      "procedures": [
+        {
+          "text": "10000 square meters enclosed area",
+          "icon": "/assets/celo/field.svg"
+        },
+        {
+          "text": "Automatic capacitive bank with Rittal body",
+          "icon": "/assets/celo/rital.svg"
+        },
+        {
+          "text": "Equipped with two digital 60 tons weighbridges with German Load Cell Pfitser Waagen.",
+          "icon": "/assets/celo/weighbridge.svg"
+        },
+        {
+          "text": "Equipped with 4 inches firefighting pipes with 5 hydrant outlets in the area",
+          "icon": "/assets/celo/fire.svg"
+        },
+        {
+          "text": "Having offices and control buildings in a 400 square meters area, with cooling and heating equipment",
+          "icon": "/assets/celo/temp2.svg"
+        },
+        {
+          "text": "Galvanized grain silo manufactured by Posco Co. Italy, with total volume of 50000 tons",
+          "icon": "/assets/celo/control.svg"
+        },
+        {
+          "text": "Equipped with 3 elevators for loading and unloading simultaneously",
+          "icon": "/assets/celo/load.svg"
+        },
+        {
+          "text": "Control panel capable of being started up manually or automatically, equipped with PLC, Siemens 1200",
+          "icon": "/assets/celo/field.svg"
+        },
+        {
+          "text": "Equipped with a dust collector, bottom ventilation and sweep auger (bottom sweeper)",
+          "icon": "/assets/celo/celo.svg"
+        },
+        {
+          "text": "with level laser and temperature measuring equipment with reporting capability",
+          "icon": "/assets/celo/temp.svg"
+        }
+      ],
+      "info": [
+        {
+          "desc": [
+            {
+              "text": "Number: 2 export hives (silos) equipped with loading and unloading"
+            },
+            { "text": "Capacity : 90 tons" },
+            { "text": "Dimensions : 11.25 x 4.5 " }
+          ],
+          "image": [{ "url": "/assets/celo/celoTab3.png" }]
+        },
+        {
+          "desc": [
+            {
+              "text": "Number : 9 hives (silos)"
+            },
+            { "text": "Capacity : 3000 tons" },
+            { "text": "Dimensions : 19 x 20.5 " }
+          ],
+          "image": [{ "url": "/assets/celo/celoTab2.png" }]
+        },
+        {
+          "desc": [
+            {
+              "text": "Number : 4 hives (silos)"
+            },
+            { "text": "Capacity : 1500 tons for each" },
+            { "text": "Dimensions : " }
+          ],
+          "image": [{ "url": "/assets/celo/celoTab1.png" }]
+        }
+      ]
+    }
+  ]
+}
